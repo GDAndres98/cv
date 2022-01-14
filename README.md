@@ -4,15 +4,31 @@ _Computer/Software engineer based in Bogotá Colombia_
 
 [LinkedIn](https://www.linkedin.com/in/andrés-osorio/) / [GitHub](https://github.com/GDAndres98/)
 
-## 💡 Developer Skills
+Software Developer with over 3 years of experience. Background in competitive programming problems solving through algorithmic and mathematic solutions. Experienced with executing software and web development tasks from start to finish within agile methodologies. I am a self learner ready improve my tech stack and fully accomplish my responsibilities and help others doing so.
 
-**Frameworks / Libraries**
- - **Worked with:** AngularJS, Symfony, Spring<br>
- - **Familiar with:** Pandas, 
+## 🎈 Interests
+
+**Problem Solving Algorithms**<br>
+I have a background in competitive programming contests and interest on algorithmic and mathematic solutions from the simpliest to the most complicated problem
+<br>
+
+**Software Development**<br>
+One of the reasons why I chose this career was to know how the tools that we use every day on computers work. Now this has been transformed into an interest in implementing them
+<br>
+
+**Video Game Development**<br>
+I love video games and I'm encouraged to learn about this world behind the curtain from a coding perspective
+
+
+## 💡 Developer Skills
 
 **Languages**
  - **Main XP with:** Java, Python, PHP, JavaScript, SQL <br>
  - **Basic XP with:** C++, TypeScript <br>
+
+**Frameworks / Libraries**
+ - **Worked with:** AngularJS, Symfony, Spring<br>
+ - **Familiar with:** Pandas, Angular, Ionic
 
 **Tools**
 - **Worked with:** GIT, MariaDB, GCP<br>
@@ -33,7 +49,7 @@ _Computer/Software engineer based in Bogotá Colombia_
   <br><br>
 
 **Software Developer** @ [INP](https://inp.co) / [Deporte Virtual](https://deportevirtual.com/hercules/) _(Oct 2020 - Present)_
-  - Web development and support to Hércules &trade;
+  - Web development and support to Hércules&trade;
   - Full-Stack development including databases maintenance and succesful delivery software for massive sport events in
 South America
   - Development of UI, API, features development
