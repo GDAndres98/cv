@@ -4,12 +4,12 @@ _Computer/Software engineer based in Bogotá Colombia_
 
 [LinkedIn](https://www.linkedin.com/in/andrés-osorio/) / [GitHub](https://github.com/GDAndres98/)
 
-Software Developer with over 3 years of experience. Background in competitive programming problems solving through algorithmic and mathematic solutions. Experienced with executing software and web development tasks from start to finish within agile methodologies. I am a self learner ready improve my tech stack and fully accomplish my responsibilities and help others doing so.
+Software Developer with over 3 years of experience. Background in competitive programming problems solving through algorithmic and mathematical  solutions. Experienced with executing software and web development tasks from start to finish within agile methodologies. I am a self learner ready to improve my tech stack and fully accomplish my responsibilities and help others doing so.
 
 ## 🎈 Interests
 
 **Problem Solving Algorithms**<br>
-I have a background in competitive programming contests and interest on algorithmic and mathematic solutions from the simpliest to the most complicated problem
+I have a background in competitive programming contests and interest on algorithmic and mathematical solutions from the simpliest to the most complicated problem
 <br>
 
 **Software Development**<br>
@@ -39,7 +39,7 @@ I love video games and I'm encouraged to learn about this world behind the curta
 
 **BI Consultant** @ [Rollup Consulting](https://www.rollupconsulting.com) _(Feb 2019 - May 2019)_
   - Responsible for solving users technical/functional issues
-  - Involved in the design, elabration and tuning of reports and cubes
+  - Involved in the design, elaboration and tuning of reports and cubes
   - **Tools:** IBM Cognos Software, Oracle PL/SQL
   <br><br>
 
@@ -50,7 +50,7 @@ I love video games and I'm encouraged to learn about this world behind the curta
 
 **Software Developer** @ [INP](https://inp.co) / [Deporte Virtual](https://deportevirtual.com/hercules/) _(Oct 2020 - Present)_
   - Web development and support to Hércules&trade;
-  - Full-Stack development including databases maintenance and succesful delivery software for massive sport events in
+  - Full-Stack development including databases maintenance and successful  delivery software for massive sport events in
 South America
   - Development of UI, API, features development
   - **Tools:** PHP (Symfony), AngularJS, MariaDB, GCP
