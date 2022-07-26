@@ -37,24 +37,29 @@ I love video games and I'm encouraged to learn about this world behind the curta
 
 ## 💻 Work Experience
 
-**BI Consultant** @ [Rollup Consulting](https://www.rollupconsulting.com) _(Feb 2019 - May 2019)_
-  - Responsible for solving users technical/functional issues
-  - Involved in the design, elaboration and tuning of reports and cubes
-  - **Tools:** IBM Cognos Software, Oracle PL/SQL
+**Java Developer** @ [SoftServe](https://www.softserveinc.com/en-us) _(May 2022 - Present)_
+- Working as a Java Developer
   <br><br>
 
-**Software Developer** @ [Rollup Consulting](https://www.rollupconsulting.com) _(Aug 2019 - Jan 2020)_
-  - Responsible for the design and implementation automated file upload system that reduced loading times from 1 week to 3 hours
-  - **Tools:** Python (Pandas, Tkinter), Adaptive Insights, GCP (API Services)
-  <br><br>
-
-**Software Developer** @ [INP](https://inp.co) / [Deporte Virtual](https://deportevirtual.com/hercules/) _(Oct 2020 - Present)_
+**Fullstack Developer** @ [INP](https://inp.co) / [Deporte Virtual](https://deportevirtual.com/hercules/) _(Oct 2020 - May 2022)_
   - Web development and support to Hércules&trade;
   - Full-Stack development including databases maintenance and successful  delivery software for massive sport events in
 South America
   - Development of UI, API, features development
   - **Tools:** PHP (Symfony), AngularJS, MariaDB, GCP
   <br><br>
+  
+**Software Developer** @ [Rollup Consulting](https://www.rollupconsulting.com) _(Aug 2019 - Jan 2020)_
+  - Responsible for the design and implementation automated file upload system that reduced loading times from 1 week to 3 hours
+  - **Tools:** Python (Pandas, Tkinter), Adaptive Insights, GCP (API Services)
+  <br><br>
+
+**BI Consultant** @ [Rollup Consulting](https://www.rollupconsulting.com) _(Feb 2019 - May 2019)_
+  - Responsible for solving users technical/functional issues
+  - Involved in the design, elaboration and tuning of reports and cubes
+  - **Tools:** IBM Cognos Software, Oracle PL/SQL
+  <br><br>
+
 
 ## 🏆 Programming Contests
 
