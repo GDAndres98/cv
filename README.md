@@ -55,6 +55,7 @@ Designed and implemented a system that integrated an external software solution 
 - Developed and utilized optimized geometry algorithms to enhance system performance and accuracy
 - Contributed to decision-making processes for architectural and database design solutions, ensuring scalability and reliability.
 - Optimized RESTful API calls, enabling improved tracking and enhanced decision-making capabilities for business operations.
+- **Tools:** Java, Spring, Geogebra, JTS, AWS, REST
 
 ### [SoftServe](https://www.softserveinc.com/en-us) (May 2022 - Oct 2024)
 
