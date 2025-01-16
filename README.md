@@ -51,9 +51,10 @@ I love video games, and I'm encouraged to learn about this world behind the curt
 
 **Software Developer** @ 🔨 Construction Management Software _(Oct 2024 - Present)_
 
-- Designed and implemented a system to calculate spatial relationships between various geometries using optimized algorithms and spatial data structures
-- Integrated external software solutions with internal systems using relational tables and AWS services to ensure seamless data exchange and processing
-- Developed multiple RESTful endpoints to address various use cases, enabling flexible interactions with the system
+Designed and implemented a system that integrated an external software solution with internal systems, calculating spatial relationships between various geometries using optimized algorithms and spatial data structures
+- Developed and utilized optimized geometry algorithms to enhance system performance and accuracy
+- Contributed to decision-making processes for architectural and database design solutions, ensuring scalability and reliability.
+- Optimized RESTful API calls, enabling improved tracking and enhanced decision-making capabilities for business operations.
 
 ### [SoftServe](https://www.softserveinc.com/en-us) (May 2022 - Oct 2024)
 
