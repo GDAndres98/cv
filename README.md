@@ -47,13 +47,17 @@ I love video games, and I'm encouraged to learn about this world behind the curt
 
 ## 💻 Work Experience
 
-### [SoftServe](https://www.softserveinc.com/en-us) (May 2022 - Present)
+### [Gorilla Logic](https://gorillalogic.com) (Oct 2024 - Present)
 
-**Java Developer** @ 💙💛 SoftServe _(May 2022 - Present)_
+**Software Developer** @ 🔨 Construction Management Software _(Oct 2024 - Present)_
 
-- Working as a Java Developer 💪🏻
+- Designed and implemented a system to calculate spatial relationships between various geometries using optimized algorithms and spatial data structures
+- Integrated external software solutions with internal systems using relational tables and AWS services to ensure seamless data exchange and processing
+- Developed multiple RESTful endpoints to address various use cases, enabling flexible interactions with the system
 
-**Backend Developer** @ ✈️ International Travel Platform _(April 2023 - May 2024)_
+### [SoftServe](https://www.softserveinc.com/en-us) (May 2022 - Oct 2024)
+
+**Backend Developer** @ ✈️ International Travel Platform _(April 2023 - Oct 2024)_
 
 Implemented and maintained a collaborative 'Trips' feature, integrating with various brands on the platform. Users can
 compile lodging, activities, and flights into a shared itinerary, facilitating real-time collaboration through email
